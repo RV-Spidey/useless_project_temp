@@ -1,10 +1,10 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [AES-128 Content Downloader] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [GREY HATS]
 
 
 ### Team Members
@@ -106,7 +106,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Adithyan.B.Raj]: [Aes decoding]
+- [Adithyan.B.Raj]: [Aes decoding(guy in the chair)]
 - [Saidali Abdul Razak]: [GUI design]
 - [Arfad A R]: [code handling]
 
