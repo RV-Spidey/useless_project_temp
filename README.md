@@ -8,26 +8,36 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Adithyan.B.Raj] - [College of Engineering Perumon]
+- Member 2: [Arfad A R] - [College of Engineering Perumon]
+- Member 3: [Saidali Abdul Razak] - [College of Engineering Perumon]
 
 ### Project Description
-[2-3 lines about what your project does]
+Made an Aes protect content downloader.
+Those who know about those know how hard it is..
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+it doesn't work on just download button 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+when someone who doesn't have any idea about this get mocked when they try to download it will download a troll video
+otherwise it will download the protected content.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [python]
+- [python gui]
+- [import sys
+import base64
+import subprocess
+import os
+import time
+import requests
+from Crypto.Cipher import AES
+from PyQt5 import QtWidgets, QtGui, QtCore]
+- [ffmpeg,N_m3u8DL-RE.exe,]
 
 For Hardware:
 - [List main components]
@@ -37,23 +47,32 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+[pip install pychryptodome]
+[pip install PYQT5]
 # Run
-[commands]
+[troll_command = ['yt-dlp', '-f', 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4', '-o', 'troll.mp4', troll_video_url]]
 
 ### Project Documentation
 For Software:
+Made an Aes protect content downloader.
+Those who know about those know how hard it is..
+it doesn't work on just download button 
+when someone who doesn't have any idea about this get mocked when they try to download it will download a troll video
+otherwise it will download the protected content.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](Add screenshot 1 here with proper nam![Screenshot (98)](https://github.com/user-attachments/assets/79650ba5-e8bd-4fb3-a459-995fd4f69dba)
+e)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot (99)](https://github.com/user-attachments/assets/e204c93e-b7b7-4f09-adc5-4d52d9a96dbf)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](Add screenshot 3 here with proper name)![Screenshot (100)](https://github.com/user-attachments/assets/2a6db345-3c3a-4427-9d6c-7e7afe2531fb)
+downloading completed
+*Add caption explaining what this show
+*contact me for more information
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -87,9 +106,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Adithyan.B.Raj]: [Aes decoding]
+- [Saidali Abdul Razak]: [GUI design]
+- [Arfad A R]: [code handling]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
